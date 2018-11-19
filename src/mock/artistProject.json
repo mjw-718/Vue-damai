@@ -1,0 +1,116 @@
+{
+    "api": "mtop.damai.wireless.search.search.artistproject.get",
+    "data": {
+        "artistProjectList": [
+            {
+                "artFans": 1139207,
+                "artPic": "https://intercms.damai.cn/artist/pic/1535596053705/1535596053705-main.jpg",
+                "artistId": 2031,
+                "artistName": "周杰伦",
+                "citySet": [
+                    "上海",
+                    "澳门",
+                    "贵阳"
+                ]
+            },
+            {
+                "artFans": 463947,
+                "artPic": "https://intercms.damai.cn/artist/pic/1534413417645/1534413417645-main.jpg",
+                "artistId": 609,
+                "artistName": "薛之谦",
+                "citySet": [
+                    "上海"
+                ]
+            },
+            {
+                "artFans": 457396,
+                "artPic": "https://intercms.damai.cn/artist/pic/1534413438481/1534413438481-main.jpg",
+                "artistId": 2726,
+                "artistName": "五月天",
+                "citySet": [
+                    "上海"
+                ]
+            },
+            {
+                "artFans": 347008,
+                "artPic": "https://intercms.damai.cn/artist/pic/1535596210529/1535596210529-main.jpg",
+                "artistId": 2048,
+                "artistName": "张学友",
+                "citySet": [
+                    "宁波",
+                    "苏州"
+                ]
+            },
+            {
+                "artFans": 97951,
+                "artPic": "https://intercms.damai.cn/artist/pic/1534413419149/1534413419149-main.jpg",
+                "artistId": 302,
+                "artistName": "李健",
+                "citySet": [
+                    "广州",
+                    "武汉",
+                    "北京",
+                    "南京"
+                ]
+            },
+            {
+                "artFans": 95209,
+                "artPic": "https://intercms.damai.cn/artist/pic/1534413407567/1534413407567-main.jpg",
+                "artistId": 1833,
+                "artistName": "林宥嘉",
+                "citySet": [
+                    "深圳"
+                ]
+            },
+            {
+                "artFans": 91997,
+                "artPic": "https://intercms.damai.cn/artist/pic/1534413365298/1534413365298-main.jpg",
+                "artistId": 71493,
+                "artistName": "鹿晗",
+                "citySet": [
+                    "深圳"
+                ]
+            },
+            {
+                "artFans": 71841,
+                "artPic": "https://intercms.damai.cn/artist/pic/1534413404866/1534413404866-main.jpg",
+                "artistId": 1958,
+                "artistName": "王力宏",
+                "citySet": [
+                    "广州",
+                    "沈阳",
+                    "长沙",
+                    "珠海",
+                    "澳门",
+                    "金华",
+                    "佛山"
+                ]
+            },
+            {
+                "artFans": 66765,
+                "artPic": "https://intercms.damai.cn/artist/pic/1534413385953/1534413385953-main.jpg",
+                "artistId": 17267,
+                "artistName": "邓紫棋",
+                "citySet": [
+                    "上海",
+                    "中山"
+                ]
+            },
+            {
+                "artFans": 55243,
+                "artPic": "https://intercms.damai.cn/artist/pic/1534413395651/1534413395651-main.jpg",
+                "artistId": 2530,
+                "artistName": "张韶涵",
+                "citySet": [
+                    "杭州",
+                    "西安",
+                    "重庆"
+                ]
+            }
+        ]
+    },
+    "ret": [
+        "SUCCESS::调用成功"
+    ],
+    "v": "1.0"
+}
